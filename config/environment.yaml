@@ -1,0 +1,18 @@
+qa:
+    baseurl: 'https://parabank.parasoft.com'
+#   api_baseurl: 'https://parabank.parasoft.com'
+
+    user_id: 'john'
+    user_password: 'demo'
+
+dev:
+    baseurl: 'https://parabank.parasoft.com'
+
+    user_id: 'john'
+    user_password: 'demo'
+
+prod:
+    baseurl: 'https://parabank.parasoft.com'
+
+    user_id: 'john'
+    user_password: 'demo'
